@@ -1,0 +1,68 @@
+{
+    "games":[{
+        "id":1,
+        "title":"Rocket League",
+        "img":"https://via.placeholder.com/700x600",
+        "link":"games.html"
+        },
+        {
+        "id":2,
+        "title":"Rainbow Six",
+        "img":"https://via.placeholder.com/700x600",
+        "link":"games.html"
+        },
+        {
+        "id":3,
+        "title":"Rust",
+        "img":"https://via.placeholder.com/700x600",
+        "link":"games.html"
+        }
+    ],
+    
+    
+
+    "singlegames":[{
+        "id":1,
+        "title":"Rocket League",
+        "desc":"#",
+        "img":"#"
+        },
+        {
+        "id":2,
+        "title":"Rainbow Six",
+        "desc":"#",
+        "img":"#"
+        },
+        {
+        "id":3,
+        "title":"Rust",
+        "desc":"#",
+        "img":"#"
+        }       
+    ],
+    
+    "brands": [
+    {
+      "brand": "Iscriviti",
+      "link": "signup.html"
+    },
+    {
+      "brand": "Chi siamo",
+      "link": "info.html"
+    },
+    {
+      "brand": "Contattaci",
+      "link": "contattaci.html"
+    },
+    {
+      "brand": "Home",
+      "link": "index.html"
+    }
+  ],
+    
+    "users": [
+        
+    ]
+        
+    
+}
